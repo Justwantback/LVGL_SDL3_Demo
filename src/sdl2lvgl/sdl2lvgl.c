@@ -1,6 +1,6 @@
 #include "sdl2lvgl.h"
 #include "SDL3/SDL.h"
-#include "../../third_party/lvgl/lvgl.h"
+#include "lvgl/lvgl.h"
 
 /* ================= SDL 全局 ================= */
 static SDL_Window   *g_window   = NULL;

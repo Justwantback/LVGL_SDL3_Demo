@@ -1,8 +1,8 @@
 #ifndef __SDL2LVGL_H__
 #define __SDL2LVGL_H__
 
-#include "../../third_party/lvgl/lvgl.h"
-#include "../include/SDL3/SDL.h"
+#include "lvgl/lvgl.h"
+#include "SDL3/SDL.h"
 
 /* ================= 配置 ================= */
 #define WIDTH   600
