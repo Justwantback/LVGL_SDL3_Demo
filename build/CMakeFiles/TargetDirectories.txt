@@ -1,3 +1,0 @@
-C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/LVGLSDLDEMO.dir
-C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/edit_cache.dir
-C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/rebuild_cache.dir

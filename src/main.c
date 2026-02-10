@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
     lv_init();
     lv_port_disp_init();
     lv_port_input_init();
-    app_ui();
+    ui_launcher_start();
     sdl_handler_loop();
     return 0;
 }

@@ -3,7 +3,7 @@
 
 #include "lvgl/lvgl.h"
 
-
+int ui_launcher_start();
 
 
 
