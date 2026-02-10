@@ -29,6 +29,8 @@ events:
       - "ninja"
       - "samu"
     candidate_directories:
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -41,9 +43,29 @@ events:
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja-build.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja-build.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja-build"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/samu.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/samu.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/samu"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja-build.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja-build.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja-build"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/samu.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/samu.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/samu"
       - "C:/Windows/System32/ninja-build.com"
       - "C:/Windows/System32/ninja-build.exe"
       - "C:/Windows/System32/ninja-build"
@@ -141,6 +163,8 @@ events:
     found: "D:/cmake-4.2.3-windows-x86_64/bin/ninja.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -158,10 +182,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -188,6 +214,8 @@ events:
       - "icx"
       - "clang"
     candidate_directories:
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -200,9 +228,53 @@ events:
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/cc.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/cc.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/cc"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/cl.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/cl.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/cl"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/bcc.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/bcc.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/bcc"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/xlc.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/xlc.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/xlc"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/icx.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/icx.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/icx"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/clang.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/clang.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/clang"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/cc.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/cc.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/cc"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/cl.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/cl.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/cl"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/bcc.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/bcc.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/bcc"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/xlc.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/xlc.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/xlc"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/icx.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/icx.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/icx"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/clang.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/clang.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/clang"
       - "C:/Windows/System32/cc.com"
       - "C:/Windows/System32/cc.exe"
       - "C:/Windows/System32/cc"
@@ -438,6 +510,8 @@ events:
     found: "D:/mingw64-posix-15.2.0/bin/cc.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -455,10 +529,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -486,6 +562,8 @@ events:
     found: "D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCCompilerId.c.in"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -503,10 +581,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "message-v1"
     backtrace:
@@ -550,6 +630,8 @@ events:
       - "ar"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -561,13 +643,17 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/ar.com"
     found: "D:/mingw64-posix-15.2.0/bin/ar.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -585,10 +671,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -610,6 +698,8 @@ events:
       - "ranlib"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -621,13 +711,17 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/ranlib.com"
     found: "D:/mingw64-posix-15.2.0/bin/ranlib.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -645,10 +739,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -670,6 +766,8 @@ events:
       - "strip"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -681,13 +779,17 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/strip.com"
     found: "D:/mingw64-posix-15.2.0/bin/strip.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -705,10 +807,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -730,6 +834,8 @@ events:
       - "ld"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -741,13 +847,17 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/ld.com"
     found: "D:/mingw64-posix-15.2.0/bin/ld.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -765,10 +875,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -790,6 +902,8 @@ events:
       - "nm"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -801,13 +915,17 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/nm.com"
     found: "D:/mingw64-posix-15.2.0/bin/nm.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -825,10 +943,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -850,6 +970,8 @@ events:
       - "objdump"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -861,13 +983,17 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/objdump.com"
     found: "D:/mingw64-posix-15.2.0/bin/objdump.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -885,10 +1011,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -910,6 +1038,8 @@ events:
       - "objcopy"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -921,13 +1051,17 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/objcopy.com"
     found: "D:/mingw64-posix-15.2.0/bin/objcopy.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -945,10 +1079,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -970,6 +1106,8 @@ events:
       - "readelf"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -981,13 +1119,17 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/readelf.com"
     found: "D:/mingw64-posix-15.2.0/bin/readelf.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -1005,10 +1147,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1030,6 +1174,8 @@ events:
       - "dlltool"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1041,13 +1187,17 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/dlltool.com"
     found: "D:/mingw64-posix-15.2.0/bin/dlltool.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -1065,10 +1215,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1090,6 +1242,8 @@ events:
       - "addr2line"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1101,13 +1255,17 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/addr2line.com"
     found: "D:/mingw64-posix-15.2.0/bin/addr2line.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -1125,10 +1283,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1150,6 +1310,8 @@ events:
       - "tapi"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1161,12 +1323,20 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/tapi.com"
       - "D:/mingw64-posix-15.2.0/bin/tapi.exe"
       - "D:/mingw64-posix-15.2.0/bin/tapi"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/tapi.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/tapi.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/tapi"
       - "C:/Windows/System32/tapi.com"
       - "C:/Windows/System32/tapi.exe"
       - "C:/Windows/System32/tapi"
@@ -1200,15 +1370,23 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/tapi.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/tapi.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/tapi"
+      - "D:/Git/cmd/tapi.com"
+      - "D:/Git/cmd/tapi.exe"
+      - "D:/Git/cmd/tapi"
+      - "D:/Git/bin/tapi.com"
+      - "D:/Git/bin/tapi.exe"
+      - "D:/Git/bin/tapi"
       - "D:/cursor/resources/app/bin/tapi.com"
       - "D:/cursor/resources/app/bin/tapi.exe"
       - "D:/cursor/resources/app/bin/tapi"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
+      - "D:/Microsoft VS Code/bin/tapi.com"
+      - "D:/Microsoft VS Code/bin/tapi.exe"
+      - "D:/Microsoft VS Code/bin/tapi"
     found: false
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -1226,10 +1404,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1254,6 +1434,8 @@ events:
       - "gcc-ar"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1265,12 +1447,20 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15.2.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15.2.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15.2"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2"
       - "C:/Windows/System32/gcc-ar-15.2.com"
       - "C:/Windows/System32/gcc-ar-15.2.exe"
       - "C:/Windows/System32/gcc-ar-15.2"
@@ -1304,15 +1494,27 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15.2.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15.2.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15.2"
+      - "D:/Git/cmd/gcc-ar-15.2.com"
+      - "D:/Git/cmd/gcc-ar-15.2.exe"
+      - "D:/Git/cmd/gcc-ar-15.2"
+      - "D:/Git/bin/gcc-ar-15.2.com"
+      - "D:/Git/bin/gcc-ar-15.2.exe"
+      - "D:/Git/bin/gcc-ar-15.2"
       - "D:/cursor/resources/app/bin/gcc-ar-15.2.com"
       - "D:/cursor/resources/app/bin/gcc-ar-15.2.exe"
       - "D:/cursor/resources/app/bin/gcc-ar-15.2"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15.2.com"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15.2.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15.2"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15"
       - "C:/Windows/System32/gcc-ar-15.com"
       - "C:/Windows/System32/gcc-ar-15.exe"
       - "C:/Windows/System32/gcc-ar-15"
@@ -1346,15 +1548,27 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15"
+      - "D:/Git/cmd/gcc-ar-15.com"
+      - "D:/Git/cmd/gcc-ar-15.exe"
+      - "D:/Git/cmd/gcc-ar-15"
+      - "D:/Git/bin/gcc-ar-15.com"
+      - "D:/Git/bin/gcc-ar-15.exe"
+      - "D:/Git/bin/gcc-ar-15"
       - "D:/cursor/resources/app/bin/gcc-ar-15.com"
       - "D:/cursor/resources/app/bin/gcc-ar-15.exe"
       - "D:/cursor/resources/app/bin/gcc-ar-15"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15.com"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar15.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar15.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15"
       - "C:/Windows/System32/gcc-ar15.com"
       - "C:/Windows/System32/gcc-ar15.exe"
       - "C:/Windows/System32/gcc-ar15"
@@ -1388,16 +1602,24 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar15.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar15.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar15"
+      - "D:/Git/cmd/gcc-ar15.com"
+      - "D:/Git/cmd/gcc-ar15.exe"
+      - "D:/Git/cmd/gcc-ar15"
+      - "D:/Git/bin/gcc-ar15.com"
+      - "D:/Git/bin/gcc-ar15.exe"
+      - "D:/Git/bin/gcc-ar15"
       - "D:/cursor/resources/app/bin/gcc-ar15.com"
       - "D:/cursor/resources/app/bin/gcc-ar15.exe"
       - "D:/cursor/resources/app/bin/gcc-ar15"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
+      - "D:/Microsoft VS Code/bin/gcc-ar15.com"
+      - "D:/Microsoft VS Code/bin/gcc-ar15.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ar15"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar.com"
     found: "D:/mingw64-posix-15.2.0/bin/gcc-ar.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -1415,10 +1637,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1443,6 +1667,8 @@ events:
       - "gcc-ranlib"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1454,12 +1680,20 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15.2.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15.2.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15.2"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2"
       - "C:/Windows/System32/gcc-ranlib-15.2.com"
       - "C:/Windows/System32/gcc-ranlib-15.2.exe"
       - "C:/Windows/System32/gcc-ranlib-15.2"
@@ -1493,15 +1727,27 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15.2.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15.2.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15.2"
+      - "D:/Git/cmd/gcc-ranlib-15.2.com"
+      - "D:/Git/cmd/gcc-ranlib-15.2.exe"
+      - "D:/Git/cmd/gcc-ranlib-15.2"
+      - "D:/Git/bin/gcc-ranlib-15.2.com"
+      - "D:/Git/bin/gcc-ranlib-15.2.exe"
+      - "D:/Git/bin/gcc-ranlib-15.2"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15.2.com"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15.2.exe"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15.2"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15.2.com"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15.2.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15.2"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15"
       - "C:/Windows/System32/gcc-ranlib-15.com"
       - "C:/Windows/System32/gcc-ranlib-15.exe"
       - "C:/Windows/System32/gcc-ranlib-15"
@@ -1535,15 +1781,27 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15"
+      - "D:/Git/cmd/gcc-ranlib-15.com"
+      - "D:/Git/cmd/gcc-ranlib-15.exe"
+      - "D:/Git/cmd/gcc-ranlib-15"
+      - "D:/Git/bin/gcc-ranlib-15.com"
+      - "D:/Git/bin/gcc-ranlib-15.exe"
+      - "D:/Git/bin/gcc-ranlib-15"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15.com"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15.exe"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15.com"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib15.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib15.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15"
       - "C:/Windows/System32/gcc-ranlib15.com"
       - "C:/Windows/System32/gcc-ranlib15.exe"
       - "C:/Windows/System32/gcc-ranlib15"
@@ -1577,16 +1835,24 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib15.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib15.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib15"
+      - "D:/Git/cmd/gcc-ranlib15.com"
+      - "D:/Git/cmd/gcc-ranlib15.exe"
+      - "D:/Git/cmd/gcc-ranlib15"
+      - "D:/Git/bin/gcc-ranlib15.com"
+      - "D:/Git/bin/gcc-ranlib15.exe"
+      - "D:/Git/bin/gcc-ranlib15"
       - "D:/cursor/resources/app/bin/gcc-ranlib15.com"
       - "D:/cursor/resources/app/bin/gcc-ranlib15.exe"
       - "D:/cursor/resources/app/bin/gcc-ranlib15"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib15.com"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib15.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib15"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib.com"
     found: "D:/mingw64-posix-15.2.0/bin/gcc-ranlib.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -1604,10 +1870,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1639,6 +1907,8 @@ events:
     found: "D:/mingw64-posix-15.2.0/bin/c++.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -1656,10 +1926,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1687,6 +1959,8 @@ events:
     found: "D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCXXCompilerId.cpp.in"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -1704,10 +1978,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "message-v1"
     backtrace:
@@ -1754,6 +2030,8 @@ events:
       - "gcc-ar"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1765,12 +2043,20 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15.2.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15.2.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15.2"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2"
       - "C:/Windows/System32/gcc-ar-15.2.com"
       - "C:/Windows/System32/gcc-ar-15.2.exe"
       - "C:/Windows/System32/gcc-ar-15.2"
@@ -1804,15 +2090,27 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15.2.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15.2.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15.2"
+      - "D:/Git/cmd/gcc-ar-15.2.com"
+      - "D:/Git/cmd/gcc-ar-15.2.exe"
+      - "D:/Git/cmd/gcc-ar-15.2"
+      - "D:/Git/bin/gcc-ar-15.2.com"
+      - "D:/Git/bin/gcc-ar-15.2.exe"
+      - "D:/Git/bin/gcc-ar-15.2"
       - "D:/cursor/resources/app/bin/gcc-ar-15.2.com"
       - "D:/cursor/resources/app/bin/gcc-ar-15.2.exe"
       - "D:/cursor/resources/app/bin/gcc-ar-15.2"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15.2.com"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15.2.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15.2"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar-15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15"
       - "C:/Windows/System32/gcc-ar-15.com"
       - "C:/Windows/System32/gcc-ar-15.exe"
       - "C:/Windows/System32/gcc-ar-15"
@@ -1846,15 +2144,27 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar-15"
+      - "D:/Git/cmd/gcc-ar-15.com"
+      - "D:/Git/cmd/gcc-ar-15.exe"
+      - "D:/Git/cmd/gcc-ar-15"
+      - "D:/Git/bin/gcc-ar-15.com"
+      - "D:/Git/bin/gcc-ar-15.exe"
+      - "D:/Git/bin/gcc-ar-15"
       - "D:/cursor/resources/app/bin/gcc-ar-15.com"
       - "D:/cursor/resources/app/bin/gcc-ar-15.exe"
       - "D:/cursor/resources/app/bin/gcc-ar-15"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15.com"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ar-15"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar15.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar15.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15"
       - "C:/Windows/System32/gcc-ar15.com"
       - "C:/Windows/System32/gcc-ar15.exe"
       - "C:/Windows/System32/gcc-ar15"
@@ -1888,16 +2198,24 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar15.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar15.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ar15"
+      - "D:/Git/cmd/gcc-ar15.com"
+      - "D:/Git/cmd/gcc-ar15.exe"
+      - "D:/Git/cmd/gcc-ar15"
+      - "D:/Git/bin/gcc-ar15.com"
+      - "D:/Git/bin/gcc-ar15.exe"
+      - "D:/Git/bin/gcc-ar15"
       - "D:/cursor/resources/app/bin/gcc-ar15.com"
       - "D:/cursor/resources/app/bin/gcc-ar15.exe"
       - "D:/cursor/resources/app/bin/gcc-ar15"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
+      - "D:/Microsoft VS Code/bin/gcc-ar15.com"
+      - "D:/Microsoft VS Code/bin/gcc-ar15.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ar15"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ar.com"
     found: "D:/mingw64-posix-15.2.0/bin/gcc-ar.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -1915,10 +2233,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1943,6 +2263,8 @@ events:
       - "gcc-ranlib"
     candidate_directories:
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1954,12 +2276,20 @@ events:
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15.2.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15.2.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15.2"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2"
       - "C:/Windows/System32/gcc-ranlib-15.2.com"
       - "C:/Windows/System32/gcc-ranlib-15.2.exe"
       - "C:/Windows/System32/gcc-ranlib-15.2"
@@ -1993,15 +2323,27 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15.2.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15.2.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15.2"
+      - "D:/Git/cmd/gcc-ranlib-15.2.com"
+      - "D:/Git/cmd/gcc-ranlib-15.2.exe"
+      - "D:/Git/cmd/gcc-ranlib-15.2"
+      - "D:/Git/bin/gcc-ranlib-15.2.com"
+      - "D:/Git/bin/gcc-ranlib-15.2.exe"
+      - "D:/Git/bin/gcc-ranlib-15.2"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15.2.com"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15.2.exe"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15.2"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15.2.com"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15.2.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15.2"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib-15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15"
       - "C:/Windows/System32/gcc-ranlib-15.com"
       - "C:/Windows/System32/gcc-ranlib-15.exe"
       - "C:/Windows/System32/gcc-ranlib-15"
@@ -2035,15 +2377,27 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib-15"
+      - "D:/Git/cmd/gcc-ranlib-15.com"
+      - "D:/Git/cmd/gcc-ranlib-15.exe"
+      - "D:/Git/cmd/gcc-ranlib-15"
+      - "D:/Git/bin/gcc-ranlib-15.com"
+      - "D:/Git/bin/gcc-ranlib-15.exe"
+      - "D:/Git/bin/gcc-ranlib-15"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15.com"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15.exe"
       - "D:/cursor/resources/app/bin/gcc-ranlib-15"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15.com"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib-15"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib15.com"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib15.exe"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15"
       - "C:/Windows/System32/gcc-ranlib15.com"
       - "C:/Windows/System32/gcc-ranlib15.exe"
       - "C:/Windows/System32/gcc-ranlib15"
@@ -2077,16 +2431,24 @@ events:
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib15.com"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib15.exe"
       - "D:/cmake-4.2.3-windows-x86_64/bin/gcc-ranlib15"
+      - "D:/Git/cmd/gcc-ranlib15.com"
+      - "D:/Git/cmd/gcc-ranlib15.exe"
+      - "D:/Git/cmd/gcc-ranlib15"
+      - "D:/Git/bin/gcc-ranlib15.com"
+      - "D:/Git/bin/gcc-ranlib15.exe"
+      - "D:/Git/bin/gcc-ranlib15"
       - "D:/cursor/resources/app/bin/gcc-ranlib15.com"
       - "D:/cursor/resources/app/bin/gcc-ranlib15.exe"
       - "D:/cursor/resources/app/bin/gcc-ranlib15"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.com"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.exe"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib15.com"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib15.exe"
+      - "D:/Microsoft VS Code/bin/gcc-ranlib15"
       - "D:/mingw64-posix-15.2.0/bin/gcc-ranlib.com"
     found: "D:/mingw64-posix-15.2.0/bin/gcc-ranlib.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -2104,10 +2466,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -2131,6 +2495,8 @@ events:
       - "windres"
       - "windres"
     candidate_directories:
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -2143,8 +2509,10 @@ events:
       - "C:/Program Files/dotnet/"
       - "D:/cmake-4.2.3-windows-x86_64/bin/"
       - "D:/mingw64-posix-15.2.0/bin/"
+      - "D:/Git/cmd/"
+      - "D:/Git/bin/"
       - "D:/cursor/resources/app/bin/"
-      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "D:/Microsoft VS Code/bin/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -2158,6 +2526,12 @@ events:
       - "C:/Program Files (x86)/LVGLSDLDEMO/sbin/"
       - "C:/Program Files (x86)/LVGLSDLDEMO/"
     searched_directories:
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/windres.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/windres.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/windres"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/windres.com"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/windres.exe"
+      - "C:/Users/Pure me/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/windres"
       - "C:/Windows/System32/windres.com"
       - "C:/Windows/System32/windres.exe"
       - "C:/Windows/System32/windres"
@@ -2195,6 +2569,8 @@ events:
     found: "D:/mingw64-posix-15.2.0/bin/windres.exe"
     search_context:
       ENV{PATH}:
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
         - "C:\\Windows\\System32\\Wbem"
@@ -2212,10 +2588,12 @@ events:
         - "C:\\Program Files\\dotnet\\"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
+        - "D:\\Git\\cmd"
+        - "D:\\Git\\bin"
         - "D:\\cmake-4.2.3-windows-x86_64\\bin"
         - "D:\\cursor\\resources\\app\\bin"
         - "D:\\mingw64-posix-15.2.0\\bin"
-        - "c:\\Users\\Pure me\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/LVGLSDLDEMO"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2231,8 +2609,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-qxazyl"
-      binary: "C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-qxazyl"
+      source: "C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-ti5l2u"
+      binary: "C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-ti5l2u"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -2241,10 +2619,10 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-qxazyl'
+        Change Dir: 'C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-ti5l2u'
         
-        Run Build Command(s): D:/cmake-4.2.3-windows-x86_64/bin/ninja.exe -v cmTC_ce977
-        [1/2] D:\\mingw64-posix-15.2.0\\bin\\cc.exe   -v -o CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj -c D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): D:/cmake-4.2.3-windows-x86_64/bin/ninja.exe -v cmTC_04025
+        [1/2] D:\\mingw64-posix-15.2.0\\bin\\cc.exe   -v -o CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj -c D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=D:\\mingw64-posix-15.2.0\\bin\\cc.exe
         Target: x86_64-w64-mingw32
@@ -2252,8 +2630,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 15.2.0 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce977.dir/'
-         D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_ce977.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cc5uHxI7.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_04025.dir/'
+         D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_04025.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccxbG92n.s
         GNU C23 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) version 15.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.27-GMP
         
@@ -2270,13 +2648,13 @@ events:
          D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 627291e8cb94ca5881baaff078669271
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce977.dir/'
-         D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cc5uHxI7.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_04025.dir/'
+         D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccxbG92n.s
         GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45
         COMPILER_PATH=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/;D:/mingw64-posix-15.2.0/bin/../libexec/gcc/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.'
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\mingw64-posix-15.2.0\\bin\\cc.exe  -v -Wl,-v CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj -o cmTC_ce977.exe -Wl,--out-implib,libcmTC_ce977.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\mingw64-posix-15.2.0\\bin\\cc.exe  -v -Wl,-v CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj -o cmTC_04025.exe -Wl,--out-implib,libcmTC_04025.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=D:\\mingw64-posix-15.2.0\\bin\\cc.exe
         COLLECT_LTO_WRAPPER=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
@@ -2287,12 +2665,12 @@ events:
         gcc version 15.2.0 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 
         COMPILER_PATH=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/;D:/mingw64-posix-15.2.0/bin/../libexec/gcc/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ce977.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_ce977.'
-         D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccrkbmsc.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_ce977.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_ce977.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_04025.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_04025.'
+         D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cc9ecyLr.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_04025.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_04025.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         collect2 version 15.2.0
-        D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccrkbmsc.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_ce977.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_ce977.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cc9ecyLr.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_04025.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_04025.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         GNU ld (GNU Binutils) 2.45
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ce977.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_ce977.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_04025.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_04025.'
         
       exitCode: 0
   -
@@ -2325,10 +2703,10 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-qxazyl']
+        ignore line: [Change Dir: 'C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-ti5l2u']
         ignore line: []
-        ignore line: [Run Build Command(s): D:/cmake-4.2.3-windows-x86_64/bin/ninja.exe -v cmTC_ce977]
-        ignore line: [[1/2] D:\\mingw64-posix-15.2.0\\bin\\cc.exe   -v -o CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj -c D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): D:/cmake-4.2.3-windows-x86_64/bin/ninja.exe -v cmTC_04025]
+        ignore line: [[1/2] D:\\mingw64-posix-15.2.0\\bin\\cc.exe   -v -o CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj -c D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\mingw64-posix-15.2.0\\bin\\cc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2336,8 +2714,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 15.2.0 (x86_64-posix-seh-rev0  Built by MinGW-Builds project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce977.dir/']
-        ignore line: [ D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_ce977.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cc5uHxI7.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_04025.dir/']
+        ignore line: [ D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_04025.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccxbG92n.s]
         ignore line: [GNU C23 (x86_64-posix-seh-rev0  Built by MinGW-Builds project) version 15.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2354,8 +2732,8 @@ events:
         ignore line: [ D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 627291e8cb94ca5881baaff078669271]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce977.dir/']
-        ignore line: [ D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cc5uHxI7.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_04025.dir/']
+        ignore line: [ D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccxbG92n.s]
         ignore line: [GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45]
         ignore line: [COMPILER_PATH=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/]
         ignore line: [D:/mingw64-posix-15.2.0/bin/../libexec/gcc/]
@@ -2366,8 +2744,8 @@ events:
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.']
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\mingw64-posix-15.2.0\\bin\\cc.exe  -v -Wl -v CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj -o cmTC_ce977.exe -Wl --out-implib libcmTC_ce977.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.']
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\mingw64-posix-15.2.0\\bin\\cc.exe  -v -Wl -v CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj -o cmTC_04025.exe -Wl --out-implib libcmTC_04025.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\mingw64-posix-15.2.0\\bin\\cc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
@@ -2385,13 +2763,13 @@ events:
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ce977.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_ce977.']
-        link line: [ D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccrkbmsc.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_ce977.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_ce977.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_04025.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_04025.']
+        link line: [ D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cc9ecyLr.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_04025.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_04025.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
           arg [D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccrkbmsc.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cc9ecyLr.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -2415,7 +2793,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_ce977.exe] ==> ignore
+          arg [cmTC_04025.exe] ==> ignore
           arg [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
           arg [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
           arg [-LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
@@ -2425,9 +2803,9 @@ events:
           arg [-LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib]
           arg [-LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_ce977.dir/CMakeCCompilerABI.c.obj] ==> ignore
+          arg [CMakeFiles/cmTC_04025.dir/CMakeCCompilerABI.c.obj] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_ce977.dll.a] ==> ignore
+          arg [libcmTC_04025.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2510,8 +2888,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-1kb9p3"
-      binary: "C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-1kb9p3"
+      source: "C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-apzx99"
+      binary: "C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-apzx99"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2521,10 +2899,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-1kb9p3'
+        Change Dir: 'C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-apzx99'
         
-        Run Build Command(s): D:/cmake-4.2.3-windows-x86_64/bin/ninja.exe -v cmTC_57378
-        [1/2] D:\\mingw64-posix-15.2.0\\bin\\c++.exe   -v -o CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj -c D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): D:/cmake-4.2.3-windows-x86_64/bin/ninja.exe -v cmTC_1d8ba
+        [1/2] D:\\mingw64-posix-15.2.0\\bin\\c++.exe   -v -o CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj -c D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=D:\\mingw64-posix-15.2.0\\bin\\c++.exe
         Target: x86_64-w64-mingw32
@@ -2532,8 +2910,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 15.2.0 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_57378.dir/'
-         D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_57378.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccObs9jq.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d8ba.dir/'
+         D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1d8ba.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cczu8OPL.s
         GNU C++17 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) version 15.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.27-GMP
         
@@ -2556,13 +2934,13 @@ events:
          D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 15ecabf2b66f98e1f3c9c000fd0d30f8
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_57378.dir/'
-         D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccObs9jq.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d8ba.dir/'
+         D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cczu8OPL.s
         GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45
         COMPILER_PATH=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/;D:/mingw64-posix-15.2.0/bin/../libexec/gcc/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\mingw64-posix-15.2.0\\bin\\c++.exe  -v -Wl,-v CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_57378.exe -Wl,--out-implib,libcmTC_57378.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\mingw64-posix-15.2.0\\bin\\c++.exe  -v -Wl,-v CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_1d8ba.exe -Wl,--out-implib,libcmTC_1d8ba.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=D:\\mingw64-posix-15.2.0\\bin\\c++.exe
         COLLECT_LTO_WRAPPER=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
@@ -2573,12 +2951,12 @@ events:
         gcc version 15.2.0 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 
         COMPILER_PATH=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/;D:/mingw64-posix-15.2.0/bin/../libexec/gcc/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_57378.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_57378.'
-         D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccWTMeGt.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_57378.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_57378.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1d8ba.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_1d8ba.'
+         D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccvGgYSQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_1d8ba.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1d8ba.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         collect2 version 15.2.0
-        D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccWTMeGt.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_57378.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_57378.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccvGgYSQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_1d8ba.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1d8ba.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         GNU ld (GNU Binutils) 2.45
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_57378.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_57378.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1d8ba.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_1d8ba.'
         
       exitCode: 0
   -
@@ -2617,10 +2995,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-1kb9p3']
+        ignore line: [Change Dir: 'C:/Users/Pure me/Desktop/Codes/LVGLSDLDemo/build/CMakeFiles/CMakeScratch/TryCompile-apzx99']
         ignore line: []
-        ignore line: [Run Build Command(s): D:/cmake-4.2.3-windows-x86_64/bin/ninja.exe -v cmTC_57378]
-        ignore line: [[1/2] D:\\mingw64-posix-15.2.0\\bin\\c++.exe   -v -o CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj -c D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): D:/cmake-4.2.3-windows-x86_64/bin/ninja.exe -v cmTC_1d8ba]
+        ignore line: [[1/2] D:\\mingw64-posix-15.2.0\\bin\\c++.exe   -v -o CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj -c D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\mingw64-posix-15.2.0\\bin\\c++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2628,8 +3006,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 15.2.0 (x86_64-posix-seh-rev0  Built by MinGW-Builds project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_57378.dir/']
-        ignore line: [ D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_57378.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccObs9jq.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d8ba.dir/']
+        ignore line: [ D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1d8ba.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cczu8OPL.s]
         ignore line: [GNU C++17 (x86_64-posix-seh-rev0  Built by MinGW-Builds project) version 15.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2652,8 +3030,8 @@ events:
         ignore line: [ D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 15ecabf2b66f98e1f3c9c000fd0d30f8]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_57378.dir/']
-        ignore line: [ D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccObs9jq.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d8ba.dir/']
+        ignore line: [ D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\cczu8OPL.s]
         ignore line: [GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45]
         ignore line: [COMPILER_PATH=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/]
         ignore line: [D:/mingw64-posix-15.2.0/bin/../libexec/gcc/]
@@ -2664,8 +3042,8 @@ events:
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\mingw64-posix-15.2.0\\bin\\c++.exe  -v -Wl -v CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_57378.exe -Wl --out-implib libcmTC_57378.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\mingw64-posix-15.2.0\\bin\\c++.exe  -v -Wl -v CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_1d8ba.exe -Wl --out-implib libcmTC_1d8ba.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\mingw64-posix-15.2.0\\bin\\c++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
@@ -2683,13 +3061,13 @@ events:
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_57378.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_57378.']
-        link line: [ D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccWTMeGt.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_57378.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_57378.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1d8ba.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_1d8ba.']
+        link line: [ D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccvGgYSQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_1d8ba.exe D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/mingw64-posix-15.2.0/bin/../lib/gcc -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1d8ba.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
           arg [D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=D:/mingw64-posix-15.2.0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccWTMeGt.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\PUREME~1\\AppData\\Local\\Temp\\ccvGgYSQ.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -2713,7 +3091,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_57378.exe] ==> ignore
+          arg [cmTC_1d8ba.exe] ==> ignore
           arg [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
           arg [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
           arg [-LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
@@ -2723,9 +3101,9 @@ events:
           arg [-LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib]
           arg [-LD:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [D:/mingw64-posix-15.2.0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_57378.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [CMakeFiles/cmTC_1d8ba.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_57378.dll.a] ==> ignore
+          arg [libcmTC_1d8ba.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2798,15 +3176,4 @@ events:
     message: |
       Running the CXX compiler's linker: "../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-msvcrt-rt_v13-rev0/mingw64/bin/ld.exe" "--version"
       
-...
-
----
-events:
-  -
-    kind: "message-v1"
-    backtrace:
-      - "D:/cmake-4.2.3-windows-x86_64/share/cmake-4.2/Modules/CMakeDetermineSystem.cmake:212 (message)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      The system is: Windows - 10.0.19045 - AMD64
 ...

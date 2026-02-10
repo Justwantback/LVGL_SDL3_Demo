@@ -6,6 +6,7 @@ set(CMAKE_C_STANDARD 11)
 # 包含目录
 include_directories(
     ${CMAKE_SOURCE_DIR}/include
+    ${CMAKE_SOURCE_DIR}/src/sdl2lvgl
     ${CMAKE_SOURCE_DIR}/third_party/lvgl
     ${CMAKE_SOURCE_DIR}/third_party/lvgl/../
     ${CMAKE_SOURCE_DIR}/third_party/lvgl/src

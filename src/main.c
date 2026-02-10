@@ -1,7 +1,7 @@
 #include <stdbool.h>
 #include "SDL3/SDL.h"
-#include "third_party/lvgl/lvgl.h"
-#include "sdl2lvgl.h"
+#include "../third_party/lvgl/lvgl.h"
+#include "sdl2lvgl/sdl2lvgl.h"
 
 
 
