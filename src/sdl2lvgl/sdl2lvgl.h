@@ -5,8 +5,9 @@
 #include "SDL3/SDL.h"
 
 /* ================= 配置 ================= */
-#define WIDTH   600
-#define HEIGHT  400
+#define WINDOW_NAME "MQ80_UI_Demo LVGL9.2"
+#define WIDTH   320
+#define HEIGHT  240
 #define BUF_HEIGHT 40
 #define BYTE_PER_PIXEL (LV_COLOR_FORMAT_GET_SIZE(LV_COLOR_FORMAT_ARGB8888))
 

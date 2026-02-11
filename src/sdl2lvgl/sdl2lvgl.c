@@ -25,7 +25,7 @@ int sdl_init(void)
     }
 
     g_window = SDL_CreateWindow(
-        "LVGL + SDL3 Demo",
+        WINDOW_NAME,
         WIDTH, HEIGHT,
         SDL_WINDOW_HIGH_PIXEL_DENSITY
     );
